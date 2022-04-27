@@ -4,7 +4,7 @@
 In this lesson we will built this __Support Vector Machine__ for classification using __scikit-learn__ and the __Radial Basis Function (RBF) Kernel__. Our training data set contains continuous and categorical data from the **[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)** to predict whether or not a patient has **[heart disease](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)**.
 
 
-### Below are the key objective of this project:
+### Below are the key objectives of this project:
 1.	Importing data into, and manipulating a pandas dataframe.
 2.	Identifying and dealing with missing data.
 3.	Formatting the data for a support vector machine, including One-Hot Encoding
